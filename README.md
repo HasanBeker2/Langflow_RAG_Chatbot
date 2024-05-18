@@ -1,4 +1,4 @@
-![My Image Description](![My Image Description](https://github.com/your-username/your-repository/blob/main/path/to/your/image.jpg)
+![My Image Description](https://github.com/HasanBeker2/Langflow_RAG_Chatbot/commit/88ace5392a74839ff7fef3a3a47c4f20996d59fe)
 # RAG-Based LLM Chatbot Application
 
 This repository contains the code and resources needed to build a Retrieval-Augmented Generation (RAG) based chatbot application using LangFlow. This chatbot can answer questions based on the content of a provided PDF document, making it ideal for scenarios such as restaurant FAQs or any other context where common questions are frequently asked.
