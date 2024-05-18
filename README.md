@@ -25,8 +25,8 @@ In this project, you'll find all the necessary components to create your own AI 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/rag-llm-chatbot.git
-   cd rag-llm-chatbot
+   git clone https://github.com/HasanBeker2/Langflow_RAG_Chatbot
+   cd Langflow_RAG_Chatbot
    ```
 
 2. **Install LangFlow**:
@@ -64,7 +64,7 @@ In this project, you'll find all the necessary components to create your own AI 
 ## Usage
 
 1. **Start the Application**:
-   - After setting up the flow, click `Run` in LangFlow.
+   - After setting up the flow, click `PlayGround` in LangFlow.
    - Interact with the chatbot by entering your name and asking questions.
 
 2. **Change User**:
